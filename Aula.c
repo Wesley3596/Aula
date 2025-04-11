@@ -1,6 +1,4 @@
-#include <stdio.h>
-
-int main(){
+q   {
 /*
 Soma (+)
 Subtração (=)
